@@ -82,4 +82,5 @@ public class Main {
 ```
 
 ### Rezultāts:
+![image](https://user-images.githubusercontent.com/62758448/194777509-0489d778-cb33-43fd-9821-e374cad39220.png)
 
