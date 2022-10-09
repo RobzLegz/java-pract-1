@@ -96,4 +96,5 @@ public class Main {
 ```
 
 ### Rezultāts:
+![image](https://user-images.githubusercontent.com/62758448/194777591-99a4aa97-10a2-4cd2-95d9-5a58c6b7c423.png)
 
